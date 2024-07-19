@@ -55,7 +55,7 @@ footer{
     padding-top: 3px;
     padding-bottom: 18px;
     font-weight: bold;
-    transform: translateY(-30%);
+    transform: translateY(30%);
 }
 footer p{
     font-size: larger;
